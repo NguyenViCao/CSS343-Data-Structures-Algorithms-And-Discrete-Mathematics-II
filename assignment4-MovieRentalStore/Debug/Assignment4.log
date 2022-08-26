@@ -1,0 +1,16 @@
+﻿  Assignment4.cpp
+  borrow.cpp
+  borroworreturn.cpp
+  command.cpp
+  commandtype.cpp
+  customer.cpp
+C:\Users\Vy Cao\OneDrive\Desktop\CSS343\Assignment4\Assignment4\customer.cpp(135,20): warning C4018: '<': signed/unsigned mismatch
+  customersdatabase.cpp
+  history.cpp
+C:\Users\Vy Cao\OneDrive\Desktop\CSS343\Assignment4\Assignment4\history.cpp(50,22): warning C4018: '<': signed/unsigned mismatch
+  inventory.cpp
+  return.cpp
+  storemanager.cpp
+C:\Users\Vy Cao\OneDrive\Desktop\CSS343\Assignment4\Assignment4\storemanager.cpp(21,10): warning C4101: 'checkData': unreferenced local variable
+  Generating Code...
+  Assignment4.vcxproj -> C:\Users\Vy Cao\OneDrive\Desktop\CSS343\Assignment4\Debug\Assignment4.exe
